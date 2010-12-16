@@ -2,12 +2,12 @@
 <metadata>
   <groupId>org.jggug.kobo</groupId>
   <artifactId>gexcelapi</artifactId>
-  <version>0.2-SNAPSHOT</version>
+  <version>0.3-SNAPSHOT</version>
   <versioning>
-    <versions>
-      <version>0.2-SNAPSHOT</version>
-      <version>0.3-SNAPSHOT</version>
-    </versions>
+    <snapshot>
+      <timestamp>20101216.150115</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
     <lastUpdated>20101216150115</lastUpdated>
   </versioning>
 </metadata>
