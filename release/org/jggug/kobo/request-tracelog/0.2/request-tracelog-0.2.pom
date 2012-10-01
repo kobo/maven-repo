@@ -18,27 +18,5 @@ It's very simple.
       <email>nobeans@gmail.com</email>
     </developer>
   </developers>
-  <dependencies>
-    <dependency>
-      <groupId>org.grails.plugins</groupId>
-      <artifactId>svn</artifactId>
-      <version>1.0.2</version>
-      <type>zip</type>
-      <scope>runtime</scope>
-      <exclusions>
-        <exclusion>
-          <groupId>xml-apis</groupId>
-          <artifactId>xml-apis</artifactId>
-        </exclusion>
-        <exclusion>
-          <groupId>xml-apis</groupId>
-          <artifactId>xmlParserAPIs</artifactId>
-        </exclusion>
-        <exclusion>
-          <groupId>xerces</groupId>
-          <artifactId>xmlParserAPIs</artifactId>
-        </exclusion>
-      </exclusions>
-    </dependency>
-  </dependencies>
+  <dependencies />
 </project>

@@ -10,7 +10,7 @@ It's very simple.
 </description>
   <type>RequestTracelogGrailsPlugin</type>
   <resources>
-    <resource>RequestTracelogFilters</resource>
+    <resource>org.jggug.kobo.filter.RequestTracelogFilters</resource>
   </resources>
   <repositories>
     <repository name='grailsCentral' url='http://grails.org/plugins' />
@@ -18,11 +18,7 @@ It's very simple.
     <repository name='mavenCentral' url='http://repo1.maven.org/maven2/' />
   </repositories>
   <dependencies />
-  <plugins>
-    <runtime>
-      <plugin group='org.grails.plugins' name='svn' version='1.0.2' />
-    </runtime>
-  </plugins>
+  <plugins />
   <runtimePluginRequirements />
   <behavior />
 </plugin>
